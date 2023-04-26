@@ -1,0 +1,99 @@
+.header{
+    background-color: #002428;
+    height: 200px;
+    width: 850px;
+    font-family: serif;
+}
+
+img{
+    float: left;
+    width: 150px;
+    height: 150px;
+    margin: 25px;
+}
+
+.name h1{
+    color: #BBD7DA;
+    font-size: 50px;
+    float: left;
+    padding: 50px 0px 20px 20px;
+}
+
+.twitter p{
+    color: #BBD7DA;
+    font-size: 20px;
+    float: left;
+    padding-top: 100px;
+}
+.twitter a{
+    color: #7DA3A8;
+    font-size: 20px;
+    float: left;
+    margin-top: 20px;
+    margin-right: 10px;
+    padding-top: 100px;
+}
+
+
+
+
+
+.main{
+    color: #002428;
+    background-color: #7DA3A8;
+    font-family: serif;
+    width: 850px;
+    height: 980px;
+}
+
+span{
+    color: #882122;
+}
+
+.title{
+    border-top: 2px solid #BBD7DA;
+    border-bottom: 2px solid #BBD7DA;
+    padding-left: 20px;
+}
+
+.about1 ul{
+    list-style: none;
+}
+
+.about2 h3{
+    padding-left: 15px;
+}
+
+.about3 h3{
+    padding-left: 15px;
+    margin-right: 40px;
+    float: left;
+}
+
+.about4{
+    padding: 15px;
+}
+
+
+
+
+.footer{
+    background-color: #002428;
+    font-family: serif;
+    width: 850px;
+    height: 50px;
+}
+
+.footer p{
+    color: #BBD7DA;
+    font-size: 15px;
+    float: left;
+    padding-left: 720px;
+}
+.footer a{
+    color: #7DA3A8;
+    font-size: 15px;
+    float: left;
+    margin-top: 15px;
+    margin-right: 10px;
+}
